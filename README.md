@@ -1,4 +1,3 @@
-
 # Smart Wheelchair Control Based on Spatial Features of Hand Gesture.
 
 Collaborating with I Gusti Ngurah Agung Hari Vijaya Kusuma, this project involves training a CNN model with a dataset of hand movement pose. Real time predicted pose will then used to control wheelchair movement.
